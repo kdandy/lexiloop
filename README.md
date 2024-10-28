@@ -12,18 +12,18 @@
 
 ## Technologies Used
 
-- **Frontend**: React / Vue / Angular
-- **Backend**: Node.js (Express) / Django / Laravel
-- **Database**: PostgreSQL / MongoDB
-- **API**: REST API / GraphQL
-- **Hosting**: AWS / DigitalOcean / Heroku
+- **Frontend**: React / Remix / NextJS
+- **Backend**: Node.js (Express)
+- **Database**: MongoDB
+- **API**: REST API
+- **Hosting**: AWS / DigitalOcean / Railway
 
 ## Getting Started
 
 ### Prerequisites
 
 - **Node.js** and **npm**
-- Database (PostgreSQL or MongoDB)
+- Database (MongoDB)
 - Choose a hosting environment, such as **Docker** for local deployment
 
 ### Installation
