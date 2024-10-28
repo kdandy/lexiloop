@@ -12,7 +12,7 @@
 
 ## Technologies Used
 
-- **Frontend**: React / Vue / Angular (choose based on your preference)
+- **Frontend**: React / Vue / Angular
 - **Backend**: Node.js (Express) / Django / Laravel
 - **Database**: PostgreSQL / MongoDB
 - **API**: REST API / GraphQL
