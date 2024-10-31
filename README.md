@@ -1,6 +1,6 @@
-# LexiLoop
+# Sagacademy
 
-**LexiLoop** is an interactive programming learning platform that provides articles, tutorials, and coding challenges. Designed for all levels, from beginners to experienced developers, LexiLoop helps you dive deep into coding concepts in a practical and structured way.
+**Sagacademy** is an interactive programming learning platform that provides articles, tutorials, and coding challenges. Designed for all levels, from beginners to experienced developers, Sagacademy helps you dive deep into coding concepts in a practical and structured way.
 
 ## Key Features
 
@@ -30,8 +30,8 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/username/lexiloop.git
-   cd lexiloop
+   git clone https://github.com/kdandy/sagacademy.git
+   cd sagacademy
 2. **Install Dependencies**:
    ```bash
    npm install
@@ -44,7 +44,7 @@
 4. **Run the Application**:
    ```bash
    npm start
-5. **Access in Browser**: Open http://localhost:3000 to access LexiLoop.
+5. **Access in Browser**: Open http://localhost:3000 to access Sagacademy.
 
 ## Contributing
 
